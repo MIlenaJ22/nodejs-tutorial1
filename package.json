@@ -1,0 +1,27 @@
+{
+  "name": "tutorial1",
+  "version": "1.0.0",
+  "description": "This is just a tutorial code, nothing special :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MIlenaJ22/nodejs-tutorial1.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Milena Jovac & Milos Jovac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MIlenaJ22/nodejs-tutorial1/issues"
+  },
+  "homepage": "https://github.com/MIlenaJ22/nodejs-tutorial1#readme",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
